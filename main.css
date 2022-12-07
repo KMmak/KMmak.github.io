@@ -1,0 +1,27 @@
+.product_table {
+     border: 1px solid black;
+}
+.product_table th{
+    background-color: blue;
+    color: aqua;
+}
+.text_center {
+    text-align: center;
+}
+.text_right{
+    text-align: right;
+}
+.product_table tfoot {
+    background-color: beige;
+}
+.text-center { text-align: center; }
+.text-right { text-align: right; }
+
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+td{
+    border: 1px solid chocolate;
+}
